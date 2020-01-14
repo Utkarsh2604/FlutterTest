@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-![Screenshot](Screenshot_1579013235.png)
+![Screenshot](Screenshot_1579013235.png= 250x250)
 
 ## Getting Started
 
