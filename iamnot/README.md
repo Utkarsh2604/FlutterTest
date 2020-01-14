@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-<img src="https://github.com/Utkarsh2604/FlutterTest/blob/master/iamnot/Screenshot_1579013235.png" width="250" height="250"
+<img src="https://github.com/Utkarsh2604/FlutterTest/blob/master/iamnot/Screenshot_1579013235.png" width="500" height="500"
 />
 ## Getting Started
 
