@@ -3,8 +3,8 @@
 A new Flutter project.
 
 
-![Screenshot](Screenshot_1579013235.png= 250x250)
-
+<img src="https://github.com/Utkarsh2604/FlutterTest/blob/master/iamnot/Screenshot_1579013235.png" width="250" height="250"
+/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
