@@ -2,7 +2,7 @@
 
 Utk App
 
-<img src="https://github.com/Utkarsh2604/FlutterTest/blob/master/utk_app/Screenshot%2030.png" width="350px" height="600px"
+<img src="https://github.com/Utkarsh2604/FlutterTest/blob/master/utk_app/Screenshot%2030.png" width="350px" height="600px">
 
 ## Getting Started
 
